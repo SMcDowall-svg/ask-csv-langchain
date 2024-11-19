@@ -1,3 +1,5 @@
+Introduction:
+
 This tutorial aims to show the user how to build and run a simple chatbot with langchain using Azure resources. 
 
 The repository is based on a tutorial posted on medium by Writers@Tintash. Link: https://medium.com/tintash/talking-to-your-csv-using-openai-and-langchain-aff92c4eb7e2 
@@ -12,8 +14,12 @@ Note: Please ensure that the resource you configure is compatible with the model
 choose to build your Azure resource. For more information please check the documentation: 
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions
 
-Data
+Data:
 
 The user has the option to upload their own csv and use streamlit_app.py for testing or use the provided Kaggle dataset linked in the docstring in streamlit_app_predictive_maintenance.py. 
 
 Note: Data must be a csv no greater than 200MB. 
+
+Installation:
+
+Use pip install -r /path/to/requirements.txt to install necessary libraries. 
