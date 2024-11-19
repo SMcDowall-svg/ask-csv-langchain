@@ -10,9 +10,9 @@ In this resource group a GPT model was deployed. The specification of this model
 Type: gpt-4
 Deployment type: Standard
 
-Note: Please ensure that the resource you configure is compatible with the model you would like to build. It would also be prudent to check the model availability in the region you 
-choose to build your Azure resource. For more information please check the documentation: 
-https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions
+*Note: Please ensure that the resource you configure is compatible with the model you would like to build. It would also be prudent to check the model availability in the region you 
+choose to build your Azure resource. For more information please check the documentation:* 
+https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?tabs=python-secure%2Cglobal-standard%2Cstandard-chat-completions 
 
 ### Data:
 
