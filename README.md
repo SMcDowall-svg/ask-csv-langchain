@@ -22,4 +22,4 @@ The user has the option to upload their own csv and use streamlit_app.py for tes
 
 ### Installation:
 
-Use pip install -r /path/to/requirements.txt to install necessary libraries. 
+Use ```pip install -r /path/to/requirements.txt``` to install necessary libraries. 
