@@ -4,7 +4,7 @@ This tutorial aims to show the user how to build and run a simple chatbot with l
 
 The repository is based on a tutorial posted on medium by Writers@Tintash. Link: https://medium.com/tintash/talking-to-your-csv-using-openai-and-langchain-aff92c4eb7e2 
 
-The free token provided by OpenAI can be unstable and sometimes unusable, rendering it inadequate for this experiment. To circumvent these issues, an Azure resource group was created. 
+The free token provided by OpenAI can be unstable. To circumvent these issues, an Azure resource group was created. 
 In this resource group a GPT model was deployed. The specification of this model were:
 
 Type: gpt-4
