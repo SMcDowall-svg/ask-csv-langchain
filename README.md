@@ -1,6 +1,6 @@
 ## Introduction: 
 
-This tutorial aims to show the user how to build and run a simple chatbot with langchain using Azure resources. 
+This tutorial shows the user how to build and run a simple chatbot that can analyse csv, i.e structured data, using langchain Azure resources. This is a basic use-case demonstrating how an LLM can be used to run analytics on pre-existing csvs. The end-user only needs to upload their file to run the analytics. As a self-contained application, the user does not need to install any libraries, they only need a working browser. 
 
 The repository is based on a tutorial posted on medium by Writers@Tintash. Link: https://medium.com/tintash/talking-to-your-csv-using-openai-and-langchain-aff92c4eb7e2 
 
